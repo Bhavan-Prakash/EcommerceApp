@@ -34,10 +34,6 @@ This project is a scalable e-commerce application developed using React Native, 
    npx react-native run-ios      # For iOS
    ```
 
-## Project Screenshot
-![Project Screenshot](image-path.png)
-
-> Replace `image-path.png` with the actual path of your uploaded image in the repository.
 
 ## Contributing
 Feel free to submit issues or pull requests to enhance the project.
